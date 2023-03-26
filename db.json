@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "meds": [
+    {
+      "name": "name1",
+      "time": "14:22",
+      "id": 1
+    },
+    {
+      "name": "name2",
+      "time": "14:22",
+      "id": 2
+    },
+    {
+      "name": "name3",
+      "time": "15:33",
+      "id": 3
+    },
+    {
+      "name": "some",
+      "time": "11:11",
+      "id": 4
+    },
+    {
+      "name": "helo",
+      "time": "11:11",
+      "id": 5
+    },
+    {
+      "name": "helo",
+      "time": "11:11",
+      "id": 6
+    },
+    {
+      "name": "23",
+      "time": "11:11",
+      "id": 7
+    }
+  ]
+}
